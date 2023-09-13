@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"\"目录\"","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 狂者东走，逐者亦东走，东走则同，所以东走则异。
